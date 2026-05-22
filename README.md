@@ -1,4 +1,4 @@
-# Customersupport.project
+# CustomerSupport.Project
 # Demo Assistance Chatbot
 
 A beginner-to-intermediate Python console application that simulates a customer support and account registration system.
