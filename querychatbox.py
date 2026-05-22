@@ -106,7 +106,7 @@ def chatbox(username):
      print("Our manager mail is kattacharan10flasmvp@gmail.com , please makes sure to be respectful and detailed about your problems for a faster solution")
     response3 = input("")
     
-    print("Thankyou for contacting",username,"We will be glad to always support you")
+    print("Thankyou for contacting",username,",We will be glad to always support you")
 userr = user()
     
 chatbox(userr)
